@@ -1,5 +1,5 @@
 # Tarea 2
 
 -Gonzalez Rico Martin  
--Garcia Cardoso Jesus Guillermo
+-Garcia Cardoso Jesus Guillermo  
 -Sánchez Hernández Marco Antonio
