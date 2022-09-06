@@ -2,6 +2,6 @@
 
 -Gonzalez Rico Martin  
 -Garcia Cardoso Jesus Guillermo  
--Sánchez Hernández Marco Antonio  
--Olivera Parias Pedro Eduardo  
+-Sánchez Hernández Marco Antonio
+-Olivera Parias Pedro Eduardo. (= 
 -Dueñas Jarvio Pablo Alam
